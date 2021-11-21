@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Checkout my [bookmarks](https://dev.to/mehmetsefabalik/bookmarks-967)
+- 🔭 [Bookmarks](https://dev.to/mehmetsefabalik/bookmarks-967)
 <!--
 **mehmetsefabalik/mehmetsefabalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
