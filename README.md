@@ -1,7 +1,8 @@
  
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I am Sefa, I build software systems, please check out my repositories to see what I am working on.  </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I am Sefa, I build software systems, please check out my repositories to see what I am working on.</samp></h4>
 
-- 🔭 [Bookmarks or links that I save throughout the week](https://dev.to/mehmetsefabalik/bookmarks-967)
+<h4 align="center"><samp>🔭 [Bookmarks or links that I save throughout the week](https://dev.to/mehmetsefabalik/bookmarks-967)</samp></h4>
+
 <!--
 **mehmetsefabalik/mehmetsefabalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
