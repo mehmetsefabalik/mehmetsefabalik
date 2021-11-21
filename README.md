@@ -2,7 +2,8 @@
 <h4 align="center"><samp> Hi there 👋🏾  Welcome to my Github! I am Sefa, I build software systems, please check out my repositories to see what I am working on.</samp></h4>
 
 <h4 align="center"><samp> ⚡ <a href="https://dev.to/mehmetsefabalik/bookmarks-967">Bookmarks or links that I save throughout the week<a> ⚡</samp></h4>
-
+ 
+<h4 align="center"><samp> <img src="https://visitor-badge.glitch.me/badge?page_id=mehmetsefabalik&left_color=blue&right_color=blue" /> </samp></h4>
 <!--
 **mehmetsefabalik/mehmetsefabalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
