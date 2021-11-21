@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Sefa, I build software systems, please check out my repositories to see what I am working on. 
+
 - 🔭 [Bookmarks](https://dev.to/mehmetsefabalik/bookmarks-967)
 <!--
 **mehmetsefabalik/mehmetsefabalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
