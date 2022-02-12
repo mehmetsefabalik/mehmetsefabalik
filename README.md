@@ -1,5 +1,5 @@
  
-<h4 align="center"><samp> Hi there 👋🏾  Welcome to my Github! I am Sefa, please check out my repositories to see what I work on.</samp></h4>
+<h4 align="center"><samp> ⚡️ Welcome, I am Sefa, please check out my repositories to see what I work on ⚡️</samp></h4>
 
 <!-- <h4 align="center"><samp> ⚡ <a href="https://dev.to/mehmetsefabalik/bookmarks-967">Bookmarks or links that I save throughout the week<a> ⚡</samp></h4> -->
  
