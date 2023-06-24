@@ -1,7 +1,7 @@
  
-<h4 align="center"><samp> ⚡️ Welcome, I am Sefa, please check out my repositories to see what I work on ⚡️</samp></h4>
+<!-- <h4 align="center"><samp> Welcome, I am Sefa, please check out my repositories to see what I work on </samp></h4>-->
 
-<!-- <h4 align="center"><samp> ⚡ <a href="https://dev.to/mehmetsefabalik/bookmarks-967">Bookmarks or links that I save throughout the week<a> ⚡</samp></h4> -->
+<h4 align="center"><samp>  <a href="https://mehmetsefa.notion.site/Bookmarks-7dfdfa0b7c0648e7af4668f25db76fe0">Bookmarks that I save throughout the week<a> </samp></h4>
  
 <!-- <h4 align="center"><samp> <img src="https://visitor-badge.glitch.me/badge?page_id=mehmetsefabalik&left_color=blue&right_color=blue" /> </samp></h4> -->
 <!--
